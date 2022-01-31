@@ -30,12 +30,12 @@ Supprimer tout les programmes en lien avec Autodesk (Autocad, Autodesk, Revit, R
 Répéter l'opération jusqu'à ne plus obtenir de programmes Autodesk
 
 ### 📝 4 - ABAK-AUTODESK.BAT
-Lancer le programme ABAK-Autodesk - Clean ???.bat en tant qu'administrateur
+Lancer le programme ABAK-Autodesk - Clean.bat en tant qu'administrateur
 
 Suivre les instructions dans le terminal
 
 ### 💡 NOTA
-Si le programme ne se lance pas ou est bloqué par le systeme :
+Si le programme ne se lance pas ou est bloqué par le système :
 - modifier l'extension de ABAK-Autodesk.txt par ABAK-Autodesk.bat puis l'executer en tant qu'administrateur.
 - Redémarrer le poste de travail
 
